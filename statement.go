@@ -5,7 +5,7 @@ import (
 	"database/sql/driver"
 
 	"cloud.google.com/go/spanner"
-	"github.com/yuemori/go-sql-driver-spanner/internal"
+	"github.com/zem12345678/go-sql-driver-spanner/internal"
 )
 
 type spannerStmt struct {

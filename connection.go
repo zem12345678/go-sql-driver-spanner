@@ -6,7 +6,7 @@ import (
 
 	"cloud.google.com/go/spanner"
 	"github.com/pkg/errors"
-	"github.com/yuemori/go-sql-driver-spanner/internal"
+	"github.com/zem12345678/go-sql-driver-spanner/internal"
 	"google.golang.org/api/iterator"
 )
 
